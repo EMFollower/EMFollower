@@ -5,7 +5,7 @@ author:     Guotao Pang
 tags: 	   Original 欢迎转载
 subtitle:  	衍射极限
 published:  true
-category:  project1
+category:  articles
 ---
 <!-- Start Writing Below in Markdown -->
 
