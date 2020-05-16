@@ -68,7 +68,9 @@ $$2dsin\theta=nλ （1）$$
 布拉格衍射定律实际上是精简之后的版本，最初的衍射定律是劳恩方程（Laue Equations），如式（2）~（4）
 
 $$a(cos\theta_1 -cos\theta_2)=h\lambda （2）$$
+
 $$b(cos\theta_3 -cos\theta_4)=k\lambda （3）$$
+
 $$c(cos\theta_5 -cos\theta_6)=l\lambda （4）$$
 
 衍射过程如图5所示
