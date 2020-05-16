@@ -3,7 +3,7 @@ layout:     post
 title:      Z-Contrast和Phase Contrast，散射和衍射
 author:     Guotao Pang
 tags: 	   Original 欢迎转载
-subtitle:  	Scattering spieces, image contrast
+subtitle:  	Scattering species, image contrast
 published:  true
 category:  articles
 ---
