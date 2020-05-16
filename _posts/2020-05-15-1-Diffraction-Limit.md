@@ -37,6 +37,7 @@ $$I=I_0\left[ \frac{2J_1(ka\theta)}{ka\theta} \right]^2\qquad(3)$$
   <br>图2 衍射极限示意图
 </p>
 
+
 > http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/Raylei.html
 
 根据式（3）得到艾里斑第一极小条件为 $ka\theta=1.22\pi$ ，最后得到了
@@ -68,7 +69,6 @@ $$\theta\approx1.220\frac{555\times10^{-9}}{5\times10^{-3}}=0.000135\ rad$$
 $$\theta\approx\tan\theta=\frac{d}{L}=\frac{8.8\times10^{-3}}{6}=0.00147\ rad$$
 
 该结果大于瑞利判据所要求的的最小分辨角。
-
 > https://zh.wikipedia.org/wiki/%E8%A7%92%E5%88%86%E8%BE%A8%E7%8E%87
 
 在公式中我们涉及到了透镜的直径 $D$ ，而没有用小孔的直径，这是因为衍射光线在各个角度都有，但只有入射到透镜范围内的衍射光线会重新在接受屏上成像。这里我们可以用数值孔径来形容透镜收集光线的能力，其表达式如下
