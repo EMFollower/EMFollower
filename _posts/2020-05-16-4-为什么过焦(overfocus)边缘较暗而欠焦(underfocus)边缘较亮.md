@@ -18,7 +18,7 @@ category:  articles
 
 <p align="center">
   <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture2.png" width="50%">
-  <br>图1
+  <br>图2
 </p>
 
 图1和图2均为三种不同聚焦情况示意图，但是其形成的原因不同。图1中是通过改变加在透镜上的电流从而改变透镜的聚焦强度来实现不同的聚焦情况。图中透镜颜色越深代表透镜强度越大，聚焦效果越强。可以看到，在Overfocus情况下，透镜聚焦强度最大，In focus情况下，透镜聚焦强度次之，在Underfocus情况下，透镜聚焦强度最小。
@@ -41,7 +41,9 @@ category:  articles
 
 现在我们回到衬度传递函数（CTF）。
 衬度传递函数的表达式如下式所示：
-CTF=sin⁡(χ)=sin⁡(πΔfλu^2+1/2 πC_s λ^3 u^4)
+
+$$CTF=sin⁡(χ)=sin⁡(πΔfλu^2+1/2 πC_s λ^3 u^4)$$
+
 我们可以看到在相位中有两项，第一项和样品的高度有关，有时候 ∆f 也可以用z（样品高度）来表示。第二项和透镜有关，由于我们使用电镜时会尽量避免改变透镜参数，所以这里不同的聚焦情况我们都是针对样品高度而言的。
 Δf>0 表示样品升高，Overfocus；Δf<0 表示样品降低，Underfocus.
 图5为CTF在Δf从-200nm~200nm变化的曲线图。
