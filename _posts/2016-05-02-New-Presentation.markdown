@@ -4,6 +4,7 @@ title:     		New Presentation
 author:     	Ahmet Cecen
 tags:           presentation template
 subtitle:    	Some Short Description of Presentation
+published:      false
 
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none
