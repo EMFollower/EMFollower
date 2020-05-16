@@ -18,7 +18,7 @@ category:  articles
 在电子束打到样品时会产生多种不同类型的电子，如图1所示：有直接透射电子束、散射电子、二次电子、X射线、俄歇电子以及可见光。在样品内部，往往会有电子的吸收以及电子—空穴对。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/1.png" width="60%">
+  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/1.png" width="50%">
   <br>图1 入射电子束散射示意图
 </p>
 
@@ -32,7 +32,7 @@ category:  articles
 二次电子是入射电子与样品相互作用后新产生的电子，这个电子可以是入射电子发生能量变化形成的新电子，也可以是电子云中的电子发生离化而新产生的电子，这个过程往往伴随着能量变化。二次电子在电子显微镜成像中有着非常重要的作用。扫描电子显微镜（Scanning Electron Microscopy，SEM）主要利用的就是二次电子。在扫描电子显微镜中一般会有一种较高分辨率的成像模式和一种普通成像模式，这两种模式的区别就在于利用的二次电子种类不一样。二次电子既可以是在样品中散射一次形成的，也可以是散射多次形成的。利用单次散射形成的二次电子成像就是所谓的高分辨率模式，如图2中的SE1所示，这时探测器处于光路中。而经过多次散射形成的二次电子（图2中SE2）由于散射总距离较长，使得成像分辨率较低。在利用二次电子成像时，一般要求样品的导电性要好，这是因为如果样品导电性不好那么入射电子与样品相互作用后会积累在样品的表面，由于排斥作用的存在，之后的入射电子束则会受到影响，因此为了使后来的入射电子很好地与样品进行相互作用产生二次电子，需要及时将上一时刻产生的电子导走（这些电子大部分都是入射电子积累形成）。但是，目前也可以用氦离子作为入射粒子束来产生二次电子对不导电样品进行成像，这时只需要在设备中加上一个Flood Gun用于产生低能电子束中和样品表面带正电的氦离子即可。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/2.png" width="60%">
+  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/2.png" width="50%">
   <br>图2 二次电子种类以及探测方式
   </p>
 
@@ -44,7 +44,7 @@ X射线可以认为是一种二次电子，它的产生与样品的能带结构�
 这里我们还需要注意，入射电子损失能量后大部分还是可以透过样品被样品下方的探测器探测到，利用损失能量后的电子对样品进行表征的手段就是电子能量损失谱（Electron Energy Loss Spectrometry，EELS），这也是利用了电子的非弹性散射。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/3.png" width="60%">
+  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/3.png" width="50%">
   <br>图3 X射线产生原理示意图
   </p>
 
@@ -61,7 +61,7 @@ $$2dsin\theta=nλ （1）$$
 这里$d$是晶体晶面间距，$\theta$是衍射角，这里指入射电子束与晶面的夹角，$n$是正整数，$\lambda$为电子束的波长，可以通过调节加速电压改变。如图4所示为布拉格衍射示意图。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/4.png" width="60%">
+  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/4.png" width="50%">
   <br>图4 布拉格衍射定律示意图
   </p>
 
@@ -74,7 +74,7 @@ $$c(cos\theta_5 -cos\theta_6)=l\lambda （4）$$
 衍射过程如图5所示
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/5.png" width="60%">
+  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/5.png" width="50%">
   <br>图5 Laue 衍射示意图
   </p>
 
@@ -85,14 +85,14 @@ $$c(cos\theta_5 -cos\theta_6)=l\lambda （4）$$
 Z-Contrast Image一般指扫描透射电镜（Scanning Transmission Electron Microscopy， STEM）成像，在这种成像过程中，电子束通过Condenser Lens后汇聚成原子尺度大小的光斑在样品上作二维扫描，电子束中的电子会被样品中的原子以及电子云散射，通过在不同角度安装探测器可以收集不同的散射电子形成不同的像。图6为STEM工作原理示意图。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/6.png" width="60%">
+  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/6.png" width="50%">
   <br>图6 STEM工作原理示意图
   </p>
 
 从图6可以看到，STEM中三种不同的成像方式明场像（Bright Field， BF）、环形暗场像（Angular Dark Field，ADF）以及高角环形暗场像（High Angle Angular Dark Field， HADDF）都是通过收集散射电子成像，这里的环形指的是探测器的形状是环形的，避免收集到直接透射光形成明场像。散射强度与原子的原子序数密切相关，原子序数越大，原子核所带正电荷越多，电子散射强度越大，这里散射强度越大主要是指形成的散射角越大。所以在HADDF成像过程中我们会发现原子序数较大的原子较亮，而原子序数较小的原子比较暗，当原子序数特别小时，如C原子，原子序数只有6，就已经很难看到了，这就是因为原子序数较小时很难将入射电子高角度散射，最终得到的像叫做Z-Contrast Image。同样，在明场像下，Z越大，电子散射越强，最后图像中会显示为一个暗斑。由于入射电子束会聚所形成的探针的尺寸非常小，得到的像的分辨率很高，如果加上球差校正器，可以得到亚原子级别的图像。如图7所示为Z-Contrast Image的例子，图中的折线是模拟得到的$SrTiO_3$晶体的结构，然后叠加到STEM所成像之上的。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/7.png" width="60%">
+  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/7.png" width="50%">
   <br>图7 $SrTiO_3$的STEM图像
   </p>
 
@@ -100,7 +100,7 @@ Z-Contrast Image一般指扫描透射电镜（Scanning Transmission Electron Mic
 顾名思义，这种成像方式主要是通过相干得到，所以和散射电子束的相位密切相关。这种成像方式主要用在TEM模式下。在这种成像模式下，入射电子束是平行电子束，这意味着靠散射电子束无法得到高分辨率的像，因此这种情况下主要利用散射电子束的干涉成像。所以我们平时用于表征材料形貌的TEM像以及HRTEM图像都是Phase Contrast Image。这时候电镜中的光路实际上就是一个光学传输函数，将样品的信息传输到探测器上进行成像。为了提高成像分辨率，需要对成像系统即光学传输函数进行优化。如图8所示为Ge的高分辨TEM像，可以看到通过Phase Contrast Image可以很清楚地将晶界表现出来，这种成像模式可以满足大多数的科研需求。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/8-1.png" width="60%">
+  <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/8-1.png" width="50%">
   <br>图8 Ge的高分辨TEM像
   </p>
 
