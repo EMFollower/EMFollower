@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Diffraction Limit
+title:      为什么过焦(overfocus)边缘较暗而欠焦(underfocus)边缘较亮
 author:     Guotao Pang
 tags: 	   Original 欢迎转载
-subtitle:  	衍射极限
+subtitle:  	Overfocus and underfocus
 published:  true
 category:  articles
 ---
