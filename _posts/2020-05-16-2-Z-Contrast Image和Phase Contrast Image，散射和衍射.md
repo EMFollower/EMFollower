@@ -109,5 +109,9 @@ Z-Contrast Image一般指扫描透射电镜（Scanning Transmission Electron Mic
 > 本文所有图片均引用自
 Williams, David Bernard, and C. Barry. "Carter. Transmission electron microscopy: a textbook for materials science." (2009). New York: Springer.
 
+<p align="center">
+  <img src="https://emfollower.github.io/EMFollower/img/wechat.png" width="50%">
+  <br>关注微信公众号，查看文章更方便
 
+<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 
