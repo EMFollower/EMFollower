@@ -96,10 +96,10 @@ $$f_x=\frac{x}{\lambda d}=\frac{\sin\theta_x}{\lambda}\qquad(11)$$
 
 $\theta_x$ 即为图3中的 $\alpha$ ，可以看到， $\theta_x$ 大的衍射光具有较高的空间频率，即这些光为所有衍射光中的高频成分。由式（10）可知， $\theta_x$ 越大，像分辨率越高，即像的细节更加清晰，这说明在衍射成像过程中，衍射光的高频成分决定细节是否清晰，而通常低频成分可以用来得到像的轮廓。在电镜电子束成像过程中，这一规律同样适用。
 
-'''
+```
 <p align="center">
   <img src="https://emfollower.github.io/EMFollower/img/wechat.png" width="50%">
 <br>关注微信公众号，查看文章更方便</p>
-'''
+```
 
 **<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次**
