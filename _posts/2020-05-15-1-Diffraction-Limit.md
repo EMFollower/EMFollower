@@ -78,7 +78,7 @@ $$NA=n\sin\alpha\qquad(8)$$
 式中 $\alpha$ 为物体与透镜形成的最大夹角的一半，即半角， $n$ 为周围环境折射率，如图3所示。
 
 <p align="center">
-  <img width="50%" src="https://github.com/EMFollower/EMFollower/blob/master/_posts/images/1-Diffraction-Limit/1-3.png">
+  <img src="https://github.com/EMFollower/EMFollower/blob/master/_posts/images/1-Diffraction-Limit/1-3.png" width="50%" />
 </p>
 <p align="center">
   图3 数值孔径示意图
