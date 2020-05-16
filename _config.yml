@@ -10,7 +10,7 @@ url: "https://EMFollower.github.io"
 baseurl: "/EMFollower"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /EMFollower/img/logos/Project-Pages-New-Logo-Inverted.png
+# logo: /EMFollower/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  EMFollower
