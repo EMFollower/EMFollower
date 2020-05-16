@@ -98,6 +98,6 @@ $\theta_x$ 即为图3中的 $\alpha$ ，可以看到， $\theta_x$ 大的衍射�
 
 <p align="center">
   <img src="https://emfollower.github.io/EMFollower/img/wechat.png" width="50%">
-  <br>关注微信公众号，查看文章更方便
+<br>关注微信公众号，查看文章更方便</p>
 
-<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+**<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次**
