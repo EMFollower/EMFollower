@@ -26,7 +26,7 @@ $$I=I_0\left[ \frac{2J_1(ka\theta)}{ka\theta} \right]^2\qquad(3)$$
 这里的 $a$ 是指衍射孔的半径，具体的推导过程可以参考高等光学衍射理论部分，或者直接参考[[工程光学（三）——光的衍射](https://zhuanlan.zhihu.com/p/47622756)]这篇文章。 $J_1$ 为一阶贝塞尔函数， $\theta$ 为衍射角。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/1-Diffraction-Limit/1-1.png" width="300" />
+  <img src="https://emfollower.github.io/EMFollower/img/1-Diffraction-Limit/1-1.png" width="50%" />
 </p>
 
   <br>
