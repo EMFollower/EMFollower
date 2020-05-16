@@ -4,7 +4,8 @@ title:      New Post
 author:     Ahmet Cecen
 tags: 		post template
 subtitle:  	Some Short Description of Post
-category:  videos
+published:  false
+category:  articles
 ---
 <!-- Start Writing Below in Markdown -->
 
