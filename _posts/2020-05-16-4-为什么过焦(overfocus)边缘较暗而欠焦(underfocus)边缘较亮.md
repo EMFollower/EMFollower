@@ -12,12 +12,12 @@ category:  articles
 电子显微镜和光学显微镜一样，只有当散射电子束或者反射光恰好聚焦在像平面上时（在电子显微镜中是CCD的共轭面，在光学显微镜中是人眼的视网膜），才能成清晰的像，如果聚焦不到这个平面上，那么探测器接收到的就是一个模糊的像。根据散射电子束是否能聚焦到像平面上一般有三种情况：过焦（Overfocus），欠焦（Underfocus）和恰好聚焦到像平面（In focus）。图1和图2为这三种聚焦情况示意图。
  
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture1.png" width="50%">
+  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture1.png" width="70%">
   <br>图1
 </p>
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture2.png" width="50%">
+  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture2.png" width="70%">
   <br>图2
 </p>
 
@@ -26,7 +26,7 @@ category:  articles
 在操作透射电镜的过程中，我们会发现，在Overfocus情况下，样品边缘较暗；在Underfocus情况下，样品边缘较亮；在恰好对焦到像平面的情况下，样品边缘衬度最低，如图3所示。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture3.png" width="50%">
+  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture3.png" width="70%">
   <br>图3
 </p> 
 
@@ -35,7 +35,7 @@ category:  articles
 空间频率u与样品的结构有密切关系，从样品中散射出来的电子束既有高频成分，也有低频成分，当我们将高频成分滤掉时，所成像只是一个模糊的轮廓；如果只有高频成分而将低频成分滤掉，所成像只有一些锐利的细节而没有轮廓，如图4所示为HRTEM的滤波情况。这两种情况哪种都不能完整再现样品的信息。所以在成像过程中，我们既要接收高频信号，也要接收低频信号，低频信号散射角较小，很容易被相机接收到；但是高频成分散射角较大，鉴于电镜腔体的大小和相机的尺寸，不可避免的会丢失一些高频信号，这也是阻碍提高电镜分辨率的一个原因。
  
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture4.png" width="50%">
+  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture4.png" width="70%">
   <br>图4
 </p> 
 
@@ -49,14 +49,14 @@ $$CTF=sin⁡(χ)=sin⁡(πΔfλu^2+1/2 πC_s λ^3 u^4)$$
 图5为CTF在Δf从-200nm~200nm变化的曲线图。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture5.png" width="50%">
+  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture5.png" width="70%">
   <br>图5
 </p> 
 
 样品明暗程度与其对应的空间频率密切相关。为了方便说明，这里我们在图3中将样品的细节标出来，如图6（c）。样品的边缘由于积碳或者氧化的原因，往往会有一层很细微的结构（非晶层），其尺寸与块体样品比起来小得多，因而其对应的空间频率高很多。例如图6（c）中的边缘大约为1nm，这里我们取1.3nm，没有太大差别，但是计算方便。1.3nm对应的空间频率约为0.75 nm-1（空间频率或倒空间尺度与正空间样品尺度互为倒数关系，因为是对低频和高频进行比较，我们不需要考虑2pi这个系数），在图5中对应0.75 nm-1处的竖直虚线。从这条虚线与各CTF曲线的交点，我们便可知道不同Δf所对应的CTF。很明显可以看到，当Δf>0 时，CTF< 0，对应像的区域较暗，为Overfocus；Δf<0时，CTF>0，对应相的区域较亮，为underfocus。Δf=0时，CTF接近于0。看完这个细微的边缘结构，我们再看整个样品。只考虑图中的区域，样品也有130nm大小，对应的空间频率约为0.0077nm-1，与1.5nm-1相比小得多，从图中能看到无论Δf怎么变，CTF都基本为0。这就在操作电镜的过程中为我们提供了一个标准，整个样品的CTF基本一直为0，而边缘等细微结构在Δf=0时CTF也为0，说明Δf=0，CTF=0是边缘CTF变化的一个分界线，其亮暗程度都是相对整个样品低频成分的CTF变化的。
 
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture6.png" width="50%">
+  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture6.png" width="70%">
   <br>图6
 </p>  
 
@@ -64,7 +64,7 @@ $$CTF=sin⁡(χ)=sin⁡(πΔfλu^2+1/2 πC_s λ^3 u^4)$$
 如图7所示，橙黄色电子束为恰好聚焦在像平面时的情况。在左图中，将样品抬升一些，此时散射电子束用蓝色箭头表示。由于样品是不变的，所以散射规律是不变的，所有的散射电子束将和样品一样向上平移。由于透镜尺寸不变，那么最终处于两侧的电子束无法有效被透镜收集到，如a2最终丢失。处于两侧的电子束属于高频成分，由于高频成分丢失，也就是收集的电子数变少，所以对应正空间中很细微的结构看上去将会变暗，对应Overfocus。如果将样品从In focus的高度向下降一些，如图7中右图所示，与左图刚好相反，不仅原本的散射电子束都被收集到，更高频的电子束也会被收集到，如原本收集不到的a3现在也被收集到，那么样品边缘部分所对应的像收集到的电子数变多了，所以显得较亮，此时对应Underfocus。
  
 <p align="center">
-  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture7.png" width="50%">
+  <img src="https://emfollower.github.io/EMFollower/img/4-Overfocus_and_underfocus/Picture7.png" width="70%">
   <br>图7
 </p> 
 
