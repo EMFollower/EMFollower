@@ -70,3 +70,9 @@ $$CTF=sin⁡(χ)=sin⁡(πΔfλu^2+1/2 πC_s λ^3 u^4)$$
 
 >图3和图6引用自:
 Brown, Paul D. "Transmission Electron Microscopy-A Textbook for Materials Science, by David B. Williams and C. Barry Carter." Microscopy and Microanalysis 5.6 (1999).
+
+<p align="center">
+  <img src="https://emfollower.github.io/EMFollower/img/wechat.png" width="50%">
+  <br>关注微信公众号，查看文章更方便
+
+<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次
