@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      New Post
-author:     Ahmet Cecen
-tags: 		post template
-subtitle:  	Some Short Description of Post
+author:     Guotao Pang
+tags: 	   Original 欢迎转载
+subtitle:  	衍射极限
 published:  true
 category:  project1
 ---
@@ -62,3 +62,5 @@ $$x=\frac{0.61\lambda}{n\sin\alpha}=\frac{0.61\lambda}{NA}\qquad(10)$$
 可以看到空间分辨力与透镜的数值孔径有关系，数值孔径越大，意味着 $\alpha$ 越大，即 $D$ 越大，得到的 $x$ 越小，即分辨力越高。这说明，透镜尺寸越大，得到的像分辨率越高。而透镜尺寸越大带来的影响首先就是可以收集到更多的衍射光线（高角度衍射光线，即衍射光的高频成分），说明衍射光高频成分对于像分辨率有很重要的作用。在衍射成像中，空间频率可以表示为
 $$f_x=\frac{x}{\lambda d}=\frac{\sin\theta_x}{\lambda}\qquad(11)$$
 $\theta_x$ 即为图3中的 $\alpha$ ，可以看到， $\theta_x$ 大的衍射光具有较高的空间频率，即这些光为所有衍射光中的高频成分。由式（10）可知， $\theta_x$ 越大，像分辨率越高，即像的细节更加清晰，这说明在衍射成像过程中，衍射光的高频成分决定细节是否清晰，而通常低频成分可以用来得到像的轮廓。在电镜电子束成像过程中，这一规律同样适用。
+
+<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次
