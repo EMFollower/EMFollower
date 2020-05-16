@@ -27,15 +27,16 @@ $$I=I_0\left[ \frac{2J_1(ka\theta)}{ka\theta} \right]^2\qquad(3)$$
 
 <p align="center">
   <img src="https://github.com/EMFollower/EMFollower/blob/master/img/1-Diffraction-Limit/1-1.png" width="50%" />
+  <br>
+  图1 衍射过程示意图
 </p>
-<center>图1 衍射过程示意图</center>
 
 如图1所示即为衍射过程示意图。夫琅禾费衍射的一个假设就是接收屏距离圆孔的距离远远大于接受屏幕上成像范围，即 $f \gg x$ ， $f$ 为透镜的焦距，这里假设接收屏在透镜的焦平面上。如果衍射屏为一个小孔，那么在接受屏上就是艾里斑。衍射极限指的是一个衍射斑的极大值的空间位置与另外一个衍射斑的第一个极小值所在空间位置重合，这种情况我们认为是可以分辨这两个衍射斑的极限情况，当两个艾里斑距离更近时则无法分辨，如图2所示。
 
 <p align="center">
   <img src="https://github.com/EMFollower/EMFollower/blob/master/img/1-Diffraction-Limit/1-2.png" width="300" />
 </p>
-<center>图2 衍射极限示意图</center>
+<p align="center">图2 衍射极限示意图</p>
 
 > http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/Raylei.html
 
