@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      New Post
+author:     Ahmet Cecen
+tags: 		post template
+subtitle:  	Some Short Description of Post
+published:  true
+category:  project1
+---
+<!-- Start Writing Below in Markdown -->
+
 在学习光学的过程中，我们经常会遇到衍射极限的问题，同时会提到瑞利判据，这个问题在电子显微镜中同样存在，只是从光的衍射成像变成了电子的衍射成像。弄清楚衍射极限的来源有助于我们理解电镜的工作原理。
 首先介绍一个概念，瑞利判据：
 $$\theta=1.22\frac{\lambda}{D}\qquad(1)$$
