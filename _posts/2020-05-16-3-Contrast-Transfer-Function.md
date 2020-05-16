@@ -68,3 +68,9 @@ $$Δf_{Sch}=-1.2(C_s λ)^{1/2}$$
   <img src="https://emfollower.github.io/EMFollower/img/3-Contrast_transfer_function/Picture7.png" width="50%">
   <br>图7
 </p>
+
+<p align="center">
+  <img src="https://emfollower.github.io/EMFollower/img/wechat.png" width="50%">
+  <br>关注微信公众号，查看文章更方便
+
+<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次
