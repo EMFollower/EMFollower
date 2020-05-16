@@ -93,7 +93,7 @@ Z-Contrast Image一般指扫描透射电镜（Scanning Transmission Electron Mic
 
 <p align="center">
   <img src="https://emfollower.github.io/EMFollower/img/2-Z-contrast%20and%20phase%20contrast/7.png" width="50%">
-  <br>图7 {\rm{$SrTiO_3$}}的STEM图像
+  <br>图7 $SrTiO_3$的STEM图像
   </p>
 
 ### （4）Phase Contrast Image
