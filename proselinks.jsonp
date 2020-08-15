@@ -8,5 +8,9 @@ callback([
     "href": "{{site.url}}{{site.baseurl}}{{post.url}}"
   } {% unless forloop.last %},{% endunless%}
 {% endfor %}
+<<<<<<< HEAD
 ])
 
+=======
+])
+>>>>>>> da51b0da57fb42b0b98e7b013772ce32381f0b0e

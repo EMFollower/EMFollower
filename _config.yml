@@ -20,7 +20,10 @@ g-analytics: UA-128637713-1
 altmetric: true
 
 # Build settings
+<<<<<<< HEAD
 plugins: [jekyll-paginate]
+=======
+>>>>>>> da51b0da57fb42b0b98e7b013772ce32381f0b0e
 gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
@@ -161,5 +164,8 @@ prose:
           element: "checkbox"
           label: "Visual Workflow Chart (Some Layouts)"
           value: "true"
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> da51b0da57fb42b0b98e7b013772ce32381f0b0e
