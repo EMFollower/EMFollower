@@ -7,7 +7,7 @@ description: "Knowledge about Electron Microscopy"
 
 
 # Secondary Parameters
-baseurl: "/EMFollower"
+#baseurl: "/EMFollower"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 # logo: /EMFollower/img/logos/Project-Pages-New-Logo-Inverted.png
